@@ -1,0 +1,7 @@
+apiVersion: busybox.operator.com/v1alpha1
+kind: BusyBox
+metadata:
+  name: example-busybox
+spec:
+  # Add fields here
+  size: 3

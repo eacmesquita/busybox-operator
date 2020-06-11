@@ -1,0 +1,5 @@
+---
+- version: v1alpha1
+  group: busybox.operator.com
+  kind: BusyBox
+  role: /opt/ansible/roles/busybox
